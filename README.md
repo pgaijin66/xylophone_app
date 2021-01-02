@@ -3,4 +3,4 @@
 A new Flutter project.
 
 ## Getting Started
-![Xylophone app]('images/application.png')
+![Xylophone app](images/application.png)
